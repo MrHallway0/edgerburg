@@ -1,5 +1,5 @@
 # edgerburg
-Join using `edgerburg.aternos.me`
+Join using `mc.mrhallway.me`
 
 ## Resources
 
