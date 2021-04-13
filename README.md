@@ -1,6 +1,4 @@
-# edgerburg
-Join using `mc.mrhallway.me`
-
-## Resources
-
- * w3schools.com
+# Edgerburg
+IP: `mc.mrhallway.me`
+Version: `1.12.2`
+Modpack: `None`
